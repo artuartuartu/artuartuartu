@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Sou o Arthur Martins 👋
 
-<!--
-**artuartuartu/artuartuartu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou no primeiro semestre de Ciência da Computação!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-<details>
+  <summary>:zap: GitHub Stats</summary>
+
+![Anurag's GitHub stats](https://github-readme-stats-arthur-martins-de-andrades-projects.vercel.app/api?username=artuartuartu&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats-arthur-martins-de-andrades-projects.vercel.app/api/top-langs/?username=artuartuartu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
+</details>
+
+-<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
