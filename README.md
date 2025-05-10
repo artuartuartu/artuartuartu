@@ -2,6 +2,7 @@
  
   - Estou no primeiro semestre de Ciência da Computação! 💻
   - Fanático por Música! 🎶🎸
+  - Entusiasta de Atividades Físicas! 🏋️‍♂️🚴‍♂️
   - Estudando: Java🧐
 
   
