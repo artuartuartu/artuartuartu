@@ -1,6 +1,6 @@
 ### Olá! Sou o Arthur Martins 👋
  
-  - Estou no primeiro semestre de Ciência da Computação! 💻
+  - Estou no terceiro semestre de Ciência da Computação! 💻
   - Fanático por Música! 🎶🎸
   - Entusiasta de Atividades Físicas! 🏋️‍♂️🚴‍♂️
   - Estudando: Java🧐
